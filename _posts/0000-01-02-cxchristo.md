@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+i thought I was in the HUB
 Use the left arrow to go back!
